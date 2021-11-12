@@ -20,7 +20,7 @@ The next thing you'll need to do is to install pytest to run the test.
 pip install pytest
 ```
 
-### Installation
+### Instructions
 After creating and activating the environment.
 
 1. Clone the repo
@@ -42,6 +42,7 @@ After creating and activating the environment.
     ```
 
 4. Run the main application
+    The input arg points to where the data is located and the output arg points to where the json data will be stored
 
     ```sh 
     python app.py --input ./data/data_1.json --output ./schema/schema_1.json
