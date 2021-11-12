@@ -41,8 +41,7 @@ After creating and activating the environment.
     pytest test/
     ```
 
-4. Run the main application
-    The input arg points to where the data is located and the output arg points to where the schema json data will be stored.
+4. Run the main application: The input arg points to where the data is located and the output arg points to where the schema json data will be stored.
 
     ```sh 
     python app.py --input ./data/data_1.json --output ./schema/schema_1.json
