@@ -25,7 +25,7 @@ After creating and activating the environment.
 
 1. Clone the repo
     ```sh
-    git clone 
+    git clone https://github.com/victorokonkwo/python_assessment.git
     ```
 
 2. Navigate to the file directory
