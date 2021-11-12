@@ -36,13 +36,7 @@ After creating and activating the environment.
     ```
 
 3. Run the tests
-    <li>
-        Navigate to the test directory.
-    </li>
-
-    ```sh
-    cd test/
-    ```
+  
     <li>
         Run test with pytest
     </li>
