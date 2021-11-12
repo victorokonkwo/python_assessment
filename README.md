@@ -36,10 +36,6 @@ After creating and activating the environment.
     ```
 
 3. Run the tests
-  
-    <li>
-        Run test with pytest
-    </li>
 
     ```sh
     pytest test/
