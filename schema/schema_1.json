@@ -1,0 +1,38 @@
+{
+    "battle": {
+        "type": "Object",
+        "tag": [
+            "id",
+            "name",
+            "orientation",
+            "settings",
+            "status",
+            "creationTime",
+            "startTime",
+            "endTime",
+            "creator",
+            "participants"
+        ],
+        "description": "This contains information relating to battle and it has the following attributes: ['id', 'name', 'orientation', 'settings', 'status', 'creationTime', 'startTime', 'endTime', 'creator', 'participants']",
+        "required": false
+    },
+    "joiner": {
+        "type": "Object",
+        "tag": [
+            "id",
+            "nickname",
+            "title",
+            "accountType",
+            "countryCode",
+            "orientation"
+        ],
+        "description": "This contains information relating to joiner and it has the following attributes: ['id', 'nickname', 'title', 'accountType', 'countryCode', 'orientation']",
+        "required": false
+    },
+    "participantIds": {
+        "type": "Enum",
+        "tag": "participantIds",
+        "description": "This contains information relating to participantIds",
+        "required": false
+    }
+}

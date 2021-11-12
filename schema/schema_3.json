@@ -1,0 +1,45 @@
+{
+    "user": {
+        "type": "Object",
+        "tag": [
+            "id",
+            "nickname",
+            "title",
+            "accountType",
+            "countryCode",
+            "orientation"
+        ],
+        "description": "This contains information relating to user and it has the following attributes: ['id', 'nickname', 'title', 'accountType', 'countryCode', 'orientation']",
+        "required": false
+    },
+    "time": {
+        "type": "Integer",
+        "tag": "time",
+        "description": "This contains information relating to time",
+        "required": false
+    },
+    "acl": {
+        "type": "Array",
+        "tag": "acl",
+        "description": "This contains information relating to acl",
+        "required": false
+    },
+    "publicFeed": {
+        "type": "Boolean",
+        "tag": "publicFeed",
+        "description": "This contains information relating to publicFeed",
+        "required": false
+    },
+    "internationalCountries": {
+        "type": "Enum",
+        "tag": "internationalCountries",
+        "description": "This contains information relating to internationalCountries",
+        "required": false
+    },
+    "topTraderFeed": {
+        "type": "Boolean",
+        "tag": "topTraderFeed",
+        "description": "This contains information relating to topTraderFeed",
+        "required": false
+    }
+}
