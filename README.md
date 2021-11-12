@@ -1,6 +1,6 @@
 ## Getting Started
 
-This is a step by step guide on setting up your the project application.
+This is a step by step guide on setting up the project application.
 
 ### Prerequisites
 
